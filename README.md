@@ -5,3 +5,4 @@ Scripts made by **Bashir Ahmed Zeeshan** for effective use of daily task
 Take filename as input and do commit and push on GitHub remote repo
 [https://github.com/engineerbaz/baz-scripts/blob/master/github-update.bash]
 
+Change by Osama
